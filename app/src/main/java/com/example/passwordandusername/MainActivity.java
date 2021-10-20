@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         String pass = editpassword.getText().toString();
 
         String msg = "name:" + name + ", pass: " + pass;
-
+// this is my code
 
     }
 
